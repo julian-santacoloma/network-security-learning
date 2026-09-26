@@ -7,5 +7,5 @@ Mon parcours d'apprentissage en reseautique, sécurité et virtualisation.
 - Decouvrir la virtualisation
 - développer mes compétences en PowerShell
 - Documenter mes lanoratoires et mes projects
-- ## Formation
+## Formation
 - AEC - Gestionnaire de réseaux, sécurité et virtualisation
